@@ -17,7 +17,7 @@ This repository contains the customized configuration for the [Windows Terminal]
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/youruser/your-repo.git
+   git clone https://github.com/hbellido/window-terminal-theme.git
    ```
 
 2. Copy or replace the `settings.json` file in the following location:
